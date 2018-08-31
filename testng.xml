@@ -1,0 +1,7 @@
+<suite name = "Regression Testing" >
+ <test name = "HCM">
+ 	<classes>
+ 		<class name ="com.hcm.pages.Loginpage"/>
+ 	</classes>
+ </test>
+</suite>

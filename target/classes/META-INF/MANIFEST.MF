@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: Modern Java RPC stack using Jetty+Jersey+Jackson
+ +MessagePack (from https://github.com/making/msgpack-rpc-jersey-blank
+ )
+Implementation-Version: 1
+Built-By: testing03
+Implementation-Vendor-Id: com.hcm
+Build-Jdk: 1.8.0_121
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: com.hcm.App
+
